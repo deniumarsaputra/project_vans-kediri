@@ -1,0 +1,98 @@
+[
+  {
+    "name": "adminDashboard",
+    "path": "/adminDashboard",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\adminDashboard.vue",
+    "chunkName": "pages/adminDashboard"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\category.vue",
+    "chunkName": "pages/category"
+  },
+  {
+    "name": "detailProduct",
+    "path": "/detailProduct",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\detailProduct.vue",
+    "chunkName": "pages/detailProduct"
+  },
+  {
+    "name": "detailTransaction",
+    "path": "/detailTransaction",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\detailTransaction.vue",
+    "chunkName": "pages/detailTransaction"
+  },
+  {
+    "name": "detailUserMobile",
+    "path": "/detailUserMobile",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\detailUserMobile.vue",
+    "chunkName": "pages/detailUserMobile"
+  },
+  {
+    "name": "formAdminDashboard",
+    "path": "/formAdminDashboard",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\formAdminDashboard.vue",
+    "chunkName": "pages/formAdminDashboard"
+  },
+  {
+    "name": "formCategory",
+    "path": "/formCategory",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\formCategory.vue",
+    "chunkName": "pages/formCategory"
+  },
+  {
+    "name": "formProduct",
+    "path": "/formProduct",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\formProduct.vue",
+    "chunkName": "pages/formProduct"
+  },
+  {
+    "name": "formUser",
+    "path": "/formUser",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\formUser.vue",
+    "chunkName": "pages/formUser"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\product.vue",
+    "chunkName": "pages/product"
+  },
+  {
+    "name": "tablePdf",
+    "path": "/tablePdf",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\tablePdf.vue",
+    "chunkName": "pages/tablePdf"
+  },
+  {
+    "name": "transaction",
+    "path": "/transaction",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\transaction.vue",
+    "chunkName": "pages/transaction"
+  },
+  {
+    "name": "unpaidTransaction",
+    "path": "/unpaidTransaction",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\unpaidTransaction.vue",
+    "chunkName": "pages/unpaidTransaction"
+  },
+  {
+    "name": "usersMobile",
+    "path": "/usersMobile",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\usersMobile.vue",
+    "chunkName": "pages/usersMobile"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Computer\\\\Documents\\\\vans kediri\\\\fe-dashboard\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

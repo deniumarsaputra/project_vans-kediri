@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_logo.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_logo.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_logo.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon_logo.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_logo.png.flat",
+        "source": "C:\\Users\\Computer\\Documents\\vans kediri\\vanskediri-frontend\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon_logo.png"
+    }
+]
